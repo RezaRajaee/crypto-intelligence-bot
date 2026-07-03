@@ -2,7 +2,7 @@
 
 /**
  * FearGreedConnector
- * این کلاس وظیفه گرفتن شاخص ترس و طمع رو از اي پي آي های معتبر داره
+ * Class routine for getting greed and fear from market
  */
 
 class FearGreedConnector {
